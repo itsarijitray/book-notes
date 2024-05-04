@@ -11,4 +11,5 @@
 7. [How PostgreSQL parses the query and constructs the Parse Tree?](https://www.youtube.com/watch?v=m8PtOY3aWL0)
 8. [How PostgreSQL generates all possible query execution plans before choosing the best one?](https://www.youtube.com/watch?v=pj7Fxr8cUJI)
 9. [How nested loop, hash, and merge joins work](https://www.youtube.com/watch?v=-htbah3eCYg)
+10. [What happens when ID column reaches its max value - Dissecting GitHub Outage](https://www.youtube.com/watch?v=ZFRAFTn0cQ0&t=519s)
 
