@@ -1,9 +1,13 @@
 # Blogbase
 
-## Generic SDE blogs
+## Blog Aggregators
 - [Quastor](https://blog.quastor.org)
 - [Blogboard](https://blogboard.io/)
 - [Lobsters](https://lobste.rs/)
+- [DevUrls](https://devurls.com/)
+- [linksfor.dev(s)](https://linksfor.dev/)
+- [ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly)
+- [Pointers](https://www.pointer.io/)
 
 ## Speciality Blogs
 
