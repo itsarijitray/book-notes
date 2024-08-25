@@ -1,4 +1,11 @@
-# Coding Bad - Arijit's Engineering Thread
+# Coding Bad - Arijit's Engineering Thread 
+
+
+## Do checkout my curated:
+- [Papershelf](papershelf.md)
+- [Blogs](blogs.md)
+- [Videos](videos.md)
+
 
 
 
