@@ -26,8 +26,6 @@
 
 ## Frontend
 
-[Lea Verou's Blog](https://lea.verou.me/)
-
 ### Server Driven UI
 1. [A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
 2. [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
