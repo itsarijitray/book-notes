@@ -18,7 +18,7 @@
 
 ## Did you know that you can optimize memory by changing the order of struct fields in Go?
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVmZ2hjeHg4em1vZjdnN284Zmt5cWs2YnUzYWk0M3d5dW16OW9jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXu72d4iKwqek/giphy.gif" alt="Mind Blown" style="width: 100%;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVmZ2hjeHg4em1vZjdnN284Zmt5cWs2YnUzYWk0M3d5dW16OW9jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXu72d4iKwqek/giphy.gif" alt="Mind Blown" style="width: 100">
 
 
 Its fascinating! Right?
