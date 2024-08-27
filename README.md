@@ -36,6 +36,8 @@ The Example: https://go.dev/play/p/MBXg4UBOerp
 
 The Thread: https://www.reddit.com/r/golang/comments/qcab7p/you_can_optimize_memory_by_changing_the_order_of/
 
+Additional Read: https://www.wagslane.dev/posts/go-struct-ordering/
+
 
 ## I stumbled upon an intriguing string-to-number conversion technique in JavaScript
 
