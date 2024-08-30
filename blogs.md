@@ -5,7 +5,7 @@
   - [Databases](#databases)
   - [Chaos Engineering](#chaos-engineering)
   - [Identity and Access Management](#identity-and-access-management)
-  - [WASM][#wasm]
+  - [WASM](#wasm)
   - [Frontend](#frontend)
       - [Server Driven UI](#server-driven-ui)
 
