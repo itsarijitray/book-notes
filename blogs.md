@@ -5,23 +5,27 @@
   - [Databases](#databases)
   - [Chaos Engineering](#chaos-engineering)
   - [Identity and Access Management](#identity-and-access-management)
+  - [WASM][#wasm]
   - [Frontend](#frontend)
       - [Server Driven UI](#server-driven-ui)
 
 
 ## Databases
 
-1. [SQL vs. NoSQL: The Differences Explained + When to Use Each](https://www.coursera.org/articles/nosql-vs-sql)
+- [SQL vs. NoSQL: The Differences Explained + When to Use Each](https://www.coursera.org/articles/nosql-vs-sql)
 
 
 ## Chaos Engineering
 
-1. [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
-2. [Netflix Chaos Monkey Upgraded](https://netflixtechblog.com/netflix-chaos-monkey-upgraded-1d679429be5d)
+- [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
+- [Netflix Chaos Monkey Upgraded](https://netflixtechblog.com/netflix-chaos-monkey-upgraded-1d679429be5d)
 
 
 ## Identity and Access Management
-1. [Himeji: A Scalable Centralized System for Authorization at Airbnb](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574)
+- [Himeji: A Scalable Centralized System for Authorization at Airbnb](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574)
+
+## WASM
+- [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 
 
 ## Frontend
