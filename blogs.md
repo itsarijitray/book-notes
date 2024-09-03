@@ -40,5 +40,5 @@
 ## Cloud
 
 ### AWS
-- [How Amazon Lambda Works 🔥](https://newsletter.systemdesign.one/p/how-does-aws-lambda-work_
+- [How Amazon Lambda Works 🔥](https://newsletter.systemdesign.one/p/how-does-aws-lambda-work)
 
