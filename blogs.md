@@ -10,6 +10,7 @@
       - [Server Driven UI](#server-driven-ui)
   - [Cloud](#cloud)
       - [AWS](#aws)
+  - [Git](#git)
 
 
 ## Databases
@@ -25,6 +26,7 @@
 
 ## Identity and Access Management
 - [Himeji: A Scalable Centralized System for Authorization at Airbnb](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574)
+- [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 
 ## WASM
 - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
@@ -41,4 +43,7 @@
 
 ### AWS
 - [How Amazon Lambda Works 🔥](https://newsletter.systemdesign.one/p/how-does-aws-lambda-work)
+
+## Git
+- [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 
