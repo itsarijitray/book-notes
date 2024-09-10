@@ -16,6 +16,7 @@
 ## Databases
 
 - [SQL vs. NoSQL: The Differences Explained + When to Use Each](https://www.coursera.org/articles/nosql-vs-sql)
+- [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 
 
 ## Chaos Engineering
