@@ -14,3 +14,5 @@
 10. [How PostgreSQL parses the query and constructs the Parse Tree?](https://www.youtube.com/watch?v=m8PtOY3aWL0)
 11. [How PostgreSQL generates all possible query execution plans before choosing the best one?](https://www.youtube.com/watch?v=pj7Fxr8cUJI)
 
+## CI/CD
+- [Do NOT Learn Kubernetes Without Knowing These Concepts...](https://www.youtube.com/watch?v=wXuSqFJVNQA&t=119s)
