@@ -7,9 +7,9 @@
   - [Identity and Access Management](#identity-and-access-management)
   - [WASM](#wasm)
   - [Frontend](#frontend)
-      - [Server Driven UI](#server-driven-ui)
+    - [Server Driven UI](#server-driven-ui)
   - [Cloud](#cloud)
-      - [AWS](#aws)
+    - [AWS](#aws)
   - [Git](#git)
 
 
@@ -47,4 +47,5 @@
 
 ## Git
 - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
+
 
