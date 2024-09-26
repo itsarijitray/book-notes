@@ -11,6 +11,7 @@
   - [Cloud](#cloud)
     - [AWS](#aws)
   - [Git](#git)
+  - [Pub-Subs](#pub-subs)
 
 
 ## Databases
@@ -47,5 +48,11 @@
 
 ## Git
 - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
+
+
+## Pub-Subs
+
+1. [How Producers Work: Kafka Producer and Consumer Internals, Part 1](https://www.confluent.io/blog/kafka-producer-internals-preparing-event-data/)
+
 
 
