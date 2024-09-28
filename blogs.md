@@ -12,6 +12,7 @@
     - [AWS](#aws)
   - [Git](#git)
   - [Pub-Subs](#pub-subs)
+  - [Distributed Systems](#distributed-systems)
 
 
 ## Databases
@@ -54,5 +55,7 @@
 
 1. [How Producers Work: Kafka Producer and Consumer Internals, Part 1](https://www.confluent.io/blog/kafka-producer-internals-preparing-event-data/)
 
+## Distributed Systems
 
+- [Raft Explained](https://visual.ofcoder.com/raft/)
 
