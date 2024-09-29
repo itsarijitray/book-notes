@@ -2,7 +2,7 @@
 
 
 #### Do checkout my curated:
-- [Must Check Engineering Explainers 🚀](https://peerlist.io/itsarijitray/collections/COLHA9NMAJK967878FJ6E6RGLQJ8Q9)
+- [Must Check Engineering Explainers 🚀](https://www.notion.so/itsarijitray/Must-Check-Engineering-Explainers-1108347ee97180229187f0665785e76b)
 - [Papershelf](papershelf.md)
 - [Blogs](blogs.md)
 - [Videos](videos.md)
